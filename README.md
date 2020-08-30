@@ -2,6 +2,8 @@
       • [CCHM](https://drops.dagstuhl.de/opus/volltexte/2018/8475/)
       • [AHH](https://drops.dagstuhl.de/opus/volltexte/2018/9673/)
 - [ ] Model categories
+- [ ] Objective metatheory of cubical type theories
+      • [pdf](http://www.cs.cmu.edu/~jmsterli/pdfs/proposal.pdf)
 - [ ] General type theories
       • [GitHub](https://github.com/peterlefanulumsdaine/general-type-theories)
       • [slides](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottestfiles/Lumsdaine-2020-06-15-HoTTEST.pdf)
