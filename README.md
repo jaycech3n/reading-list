@@ -1,3 +1,10 @@
+# CURRENT
+- [ ] Meeting notes!
+- [ ] Shallow embedding of type theory is morally correct
+- [ ] Type Theory in Type Theory using Quotient Inductive Types
+- [ ] Internal ∞-categorical models of dependent type theory - Towards 2LTT eating HoTT
+
+# Heap
 - [ ] Cubical type theory
       • [CCHM](https://drops.dagstuhl.de/opus/volltexte/2018/8475/)
       • [AHH](https://drops.dagstuhl.de/opus/volltexte/2018/9673/)
