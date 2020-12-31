@@ -1,5 +1,8 @@
-# Focus
+## Focus ##
 
++ [ ] Two-level type theory and applications
++ [ ] Paolo Capriotti's thesis
++ [ ] [Extending homotopy type theory with strict equality](https://arxiv.org/abs/1604.03799)
 + [ ] [Univalence for inverse diagrams and homotopy canonicity](https://arxiv.org/abs/1203.3253)
 + [ ] Categorical Logic and Type Theory - Jacobs
 + [ ] Model categories
@@ -11,12 +14,12 @@
 + [ ] [Type Theory with Weak J](https://nicolaikraus.github.io/docs/conservativityAbstract.pdf)
 
 # Heap
-+ [ ] [Extending homotopy type theory with strict equality](https://arxiv.org/abs/1604.03799)
 + [ ] [Truncation Levels in Homotopy Type Theory](https://nicolaikraus.github.io/docs/thesis_nicolai.pdf)
 + [ ] [Cellular Cohomology in Homotopy Type Theory](https://arxiv.org/abs/1802.02191)
 + [ ] [Partial Elements and Recursion via Dominances in Univalent Type Theory](https://drops.dagstuhl.de/opus/volltexte/2017/7682/)
 + [ ] [A Type-Theoretical Study of Nontermination](https://digikogu.taltech.ee/et/item/e89975ba-ed06-40e8-8c61-4cd67df3fa31)
 + [ ] Conservativity of equality reflection over intensional type theory - Hoffman
++ [ ] Univalent foundations of mathematics in Agda - Escardó
 + [ ] [Cubical Type Theory: A Constructive Interpretation of the Univalence Axiom](https://drops.dagstuhl.de/opus/volltexte/2018/8475/)
 + [ ] [Cartesian Cubical Computational Type Theory: Constructive Reasoning with Paths and Equalities](https://drops.dagstuhl.de/opus/volltexte/2018/9673/)
 + [ ] [Objective metatheory of cubical type theories](http://www.cs.cmu.edu/~jmsterli/pdfs/proposal.pdf)
