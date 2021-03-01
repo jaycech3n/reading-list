@@ -14,6 +14,7 @@
 + [ ] [Type Theory with Weak J](https://nicolaikraus.github.io/docs/conservativityAbstract.pdf)
 
 # Heap
++ [ ] MacLane-Moerdijk
 + [ ] [Truncation Levels in Homotopy Type Theory](https://nicolaikraus.github.io/docs/thesis_nicolai.pdf)
 + [ ] [Cellular Cohomology in Homotopy Type Theory](https://arxiv.org/abs/1802.02191)
 + [ ] [Partial Elements and Recursion via Dominances in Univalent Type Theory](https://drops.dagstuhl.de/opus/volltexte/2017/7682/)
