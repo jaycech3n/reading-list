@@ -4,6 +4,7 @@
 + [ ] Paolo Capriotti's thesis
 + [ ] [Extending homotopy type theory with strict equality](https://arxiv.org/abs/1604.03799)
 + [ ] [Univalence for inverse diagrams and homotopy canonicity](https://arxiv.org/abs/1203.3253)
++ [ ] [Coherence of strict equalities in dependent type theories](https://arxiv.org/abs/2010.14166v1)
 + [ ] Categorical Logic and Type Theory - Jacobs
 + [ ] Model categories
 + [ ] [Type Theory should eat itself](https://www.ioc.ee/~james/papers/lfmtp08_jmc.pdf)
