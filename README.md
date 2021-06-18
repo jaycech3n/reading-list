@@ -33,3 +33,6 @@
        [Video](https://www.youtube.com/watch?v=kQe0knDuZqg&feature=youtu.be))
 + [ ] [Finite sets in homotopy type theory](https://cs.ru.nl/~nweide/fsets/finitesets.html)
 + [ ] Lawvere theory
+
+# Unclear if helpful/related at some point:
++ [ ] https://link.springer.com/article/10.1007%2Fs11083-021-09568-1
