@@ -15,6 +15,7 @@
 + [ ] [Type Theory with Weak J](https://nicolaikraus.github.io/docs/conservativityAbstract.pdf)
 
 # Heap
++ [ ] [All (∞,1)-toposes have strict univalent universes](https://arxiv.org/abs/1904.07004)
 + [ ] [Naive cubical type theory](https://arxiv.org/abs/1911.05844)
 + [ ] MacLane-Moerdijk
 + [ ] [Truncation Levels in Homotopy Type Theory](https://nicolaikraus.github.io/docs/thesis_nicolai.pdf)
@@ -34,5 +35,3 @@
 + [ ] [Finite sets in homotopy type theory](https://cs.ru.nl/~nweide/fsets/finitesets.html)
 + [ ] Lawvere theory
 
-# Unclear if helpful/related at some point:
-+ [ ] https://link.springer.com/article/10.1007%2Fs11083-021-09568-1
